@@ -1,0 +1,144 @@
+body{
+    background-color: thistle;
+    font-family: raleway;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: salmon;
+    color: seashell;
+    padding: 15px;
+}
+
+.tab {
+    display: none;
+  }
+  
+  /* Make circles that indicate the steps of the form: */
+  .step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+    text-align:center;
+    margin-top:40px;
+  }
+  
+  /* Mark the active step: */
+  .step.active {
+    opacity: 1;
+  }
+  
+  /* Mark the steps that are finished and valid: */
+  .step.finish {
+    background-color: #04AA6D;
+  }
+
+form{
+    color: black;
+    /* display: inline-block; */
+    margin: auto;
+    height: 50%;
+    text-align: center;
+}
+label{
+    padding: 1%;
+    width: 220px;
+    height: 50px;
+    color: black;
+    /* display: inline-block; */
+    font-family: Verdana;
+    align-content: center;
+    text-align: left;
+}
+.ab{
+    padding: 0%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin-left: 27%;
+}
+	
+.a1 {
+margin-left: 2px;
+}
+#aaa, #bbb, #ccc, #ddd, #eee, #fff, #ggg, #hhh, #hhh1, #hhh2, #iii{
+    margin-left: 103px;
+}
+.a2{
+margin-left: 10px;
+}
+
+.a3{
+margin-left: 22px;
+}
+.a4{
+margin-left: 23px;
+}
+.a5{
+margin-left: 27px;
+}
+.a6{
+margin-left: 19px;
+}
+.a7{
+margin-left: 13px;
+}
+.a8{
+    margin-left: 10px;
+}
+.a9{
+    margin-left: 8px;
+}
+.abc{
+    margin-left: 51px;
+}
+
+.Gender{
+    margin-left: 58px;
+}
+.Contact{
+    margin-left: 36px;
+}
+.Image{
+    margin-left: 111px;
+}
+.Doc{
+    margin-left: 130px;
+}
+.Country{
+    padding: 1%;
+    width: 20px;
+    height: 50px;
+    color: black;
+    font-family: Verdana;
+    align-content: center;
+	text-align: left;
+	margin-left: 101px;
+}
+input{
+    padding: 1px;
+    color:purple;
+    margin: 1%;
+    font-family: Verdana;
+}
+p{
+    padding: 1px;
+    color:red;
+    margin: 1%;
+    font-family: Verdana;
+}
+#Country{
+    padding: 1px;
+    color:purple;
+    margin: 1%;
+    font-family: Verdana;
+    margin-left: 25px;
+    
+}
